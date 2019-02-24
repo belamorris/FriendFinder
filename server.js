@@ -18,11 +18,11 @@
     app.use(bodyParser.text());
 
     // Add the application routes
-    //require("./routes/apiRoutes")(app);
+    require("./app/routing/apiRoutes")(app);
     require("./app/routing/htmlRoutes")(app);
 
 
-    
+
 
     // Start listening on PORT
     app.listen(PORT, function () {
