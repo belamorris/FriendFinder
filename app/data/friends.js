@@ -1,7 +1,7 @@
 // Data structure that will store the friends data
 var friendsArray = [{
         name: 'Theodore Donald Kerabatsos',
-        photo: 'https://vignette.wikia.nocookie.net/p__/images/0/03/DonnyKerabatsos.jpg/revision/latest?cb=20160119030354&path-prefix=protagonist',
+        photo: 'https://i0.wp.com/filmotomy.com/wp-content/uploads/2018/05/800.jpg?w=780&ssl=1',
         scores: [
             '1',
             '5',
@@ -65,7 +65,7 @@ var friendsArray = [{
     },
     {
         name: 'Holden Caulfield',
-        photo: 'https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiK4rirpdXgAhUCxoMKHWXtDIgQjRx6BAgBEAU&url=https%3A%2F%2Fbigthink.com%2Fbook-think%2Fis-holden-caulfield-obnoxious&psig=AOvVaw0CRnWLmt6sMOdpaSGgq2iy&ust=1551129365004222',
+        photo: 'https://cdn-images-1.medium.com/max/1000/1*TAz_QI5UpB_P8ofUtT7WVQ.png',
         scores: [
             '1',
             '1',
@@ -113,7 +113,7 @@ var friendsArray = [{
     },
     {
         name: 'Jack Torrance',
-        photo: 'https://vignette.wikia.nocookie.net/characters/images/1/11/Jack_Torrance.jpg/revision/latest?cb=20171110020827',
+        photo: 'https://upload.wikimedia.org/wikipedia/en/b/bb/The_shining_heres_johnny.jpg',
         scores: [
             '5',
             '2',
@@ -129,7 +129,7 @@ var friendsArray = [{
     },
     {
         name: 'Ted Bundy',
-        photo: 'https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwiD2pv0o9XgAhXD7oMKHQDgCRYQjRx6BAgBEAU&url=https%3A%2F%2Fwww.vulture.com%2F2018%2F07%2Fted-bundy-is-suddenly-everywhere.html&psig=AOvVaw3UXh1aOUur-9pBYX871N_v&ust=1551128986500065',
+        photo: 'https://upload.wikimedia.org/wikipedia/commons/b/b4/Bundy_FLA_8179.jpeg',
         scores: [
             '5',
             '5',
